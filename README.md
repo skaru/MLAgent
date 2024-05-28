@@ -11,7 +11,7 @@ A reward mechanism is also necessary. In this case there are colliders placed at
 
 The level used for training
 
-![The training level](Images/training.png)
+![The training level](Images/training2.png)
 
 The end result
 
